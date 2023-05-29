@@ -1,0 +1,30 @@
+
+npm i react-native-vector-icons
+
+npm i @react-native-async-storage/async-storage
+
+
+https://www.w3schools.com/charsets/ref_utf_currency.asp
+
+
+https://www.w3schools.com/charsets/tryit.asp?deci=8360
+
+search and replace with 
+
+INR: &#8377		RS:&#8360
+
+app background color
+
+backgroundColor: '#FFFFFF'
+
+backgroundColor: '#0854cf'
+
+
+color: '#ff0000'
+
+
+
+'#E6E6FA', bacground color for product
+
+
+'#b0e0e6', background color for app
